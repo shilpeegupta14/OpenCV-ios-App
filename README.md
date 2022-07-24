@@ -9,4 +9,4 @@ add opencv as pod:   pod "OpenCV"
 
 Run and Build the app
 
-![Demo image](https://github.com/shilpeegupta14/ColorDetectionOpenCV/blob/master/gif2.gif?raw=true)
+![Demo image](https://github.com/shilpeegupta14/OpenCV-ios-App/blob/master/gif2.gif)
